@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CrisisFlow Jakarta">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#020617"/>
+  <path d="M14 40c7-2 10-10 16-10s8 7 14 7 9-5 12-8" fill="none" stroke="url(#g)" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="18" cy="40" r="4" fill="#22d3ee"/>
+  <circle cx="31" cy="31" r="4" fill="#38bdf8"/>
+  <circle cx="45" cy="36" r="4" fill="#60a5fa"/>
+</svg>
